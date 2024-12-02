@@ -22,7 +22,7 @@ This repository contains the source files for my personal website, designed to s
 ## How to View Locally  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/your-username/your-repo.git  
+   git clone https://github.com/samedani/your-repo.git  
    ```  
 2. Navigate to the project folder:  
    ```bash  
@@ -36,4 +36,4 @@ This repository contains the source files for my personal website, designed to s
 - Optimize for search engines (SEO).  
 
 ## Contact  
-For feedback or questions, please reach out to me at [your email].  
+For feedback or questions, please reach out to me at [danny2show@gmail.com].  
